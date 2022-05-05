@@ -1,0 +1,29 @@
+{
+  "name": "brians-first-web-server",
+  "version": "0.0.1",
+  "description": "the web server that I am making for the first time",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-bcoop2000.git"
+  },
+  "keywords": [
+    "brian",
+    "web",
+    "server",
+    "the game"
+  ],
+  "author": "Brian Cooper",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-bcoop2000/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-bcoop2000#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
